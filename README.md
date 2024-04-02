@@ -10,5 +10,5 @@
  Ontario, Canada
 
 
-- 📫 How to reach me: gavin.hossack@gmail.com
-- 😄 Pronouns: he/him
+<!-- 📫 How to reach me: gavin.hossack@gmail.com  -->
+ - 😄 Pronouns: he/him
